@@ -1,0 +1,5 @@
+dannybase:
+  container_name: dannybase
+  image: dannyzen/dannybase:latest
+  entrypoint: /bin/zsh
+  stdin_open: true
