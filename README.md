@@ -1,5 +1,8 @@
 ## OMG DOCKER CONTAINER FOR ENV
 
-run with `sudo docker-compose run --rm dannybase`
+* vim Dockerfile
+* hack hack hack 
+* docker build . 
+* docker image push dannyzen/dannybase:latest // 2023
 
 is over at https://hub.docker.com/r/dannyzen/dannybase/
